@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on open source Python and JavaScript projects
 - 📫 How to reach me: piplicaluka64@gmail.com
 
-I am a student in Computer Science and Software Engineering currently expanding my knowledge and learning various web and cloud technologies. I am an aspiring Software Engineer with forcus on both front-end and back-end, as well as an interest in cloud technologies such as docker, kubernetes, and aws
+I am a 21 year old student in Computer Science and Software Engineering currently expanding my knowledge and learning various web and cloud technologies. I am an aspiring Software Engineer with forcus on both front-end and back-end, as well as an interest in cloud technologies such as docker, kubernetes, and aws
