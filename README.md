@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
-<h3 align="center">I am a 21 year old student in Computer Science and Software Engineering, currently expanding my knowledge and learning various web and cloud technologies. I am an aspiring Software Engineer with a focus on both the front-end and back-end, with an intent to learn cloud technologies in the future such as docker, kubernetes, and aws. I am always looking to contribute to open source projects in my spare time, and collaborate with others in the technology industry about interesting technologies and topics!</h3>
+<h3 align="center">I am a 22 year old student in Computer Science and Software Engineering, currently expanding my knowledge and learning various web and cloud technologies. I am an aspiring Software Engineer with a focus on both the front-end and back-end, with an intent to learn cloud technologies in the future such as docker, kubernetes, and aws. I am always looking to contribute to open source projects in my spare time, and collaborate with others in the technology industry about interesting technologies and topics!</h3>
 
 - 🔭 I’m currently working on [React food ordering app](https://github.com/luka2220/food-order-app)
 
