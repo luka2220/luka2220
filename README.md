@@ -10,7 +10,7 @@
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
 
-<h3 align="left">CV Website:</h3>
+<h3 align="left">Visit my website!:</h3>
 https://luka2220.github.io/cv/
 
 <h3 align="left">Languages and Tools:</h3>
