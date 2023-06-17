@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Multiple web technologies**
 
-- 💬 Ask me about **Python, Java, JavaScript, SQLite, React, Apis, PyQt5**
+- 💬 Ask me about **JavaScript, TypeScript, React, NextJs, Java, C#, APIs**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
