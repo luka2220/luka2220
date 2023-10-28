@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
 <h3 align="center">I am a 23-year-old student in Computer Science and Software Engineering, currently expanding my knowledge and learning various web and cloud technologies. I am a Software Developer focusing on both the front-end and back-end, intending to learn cloud technologies in the future such as docker, Kubernetes, and AWS. I am always looking to contribute to open-source projects in my spare time and collaborate with others in the technology industry about interesting technologies and topics!</h3>
 
-- 🔭 I’m currently working on **Web Applications**
+- 🔭 I’m currently working on **Mobile and Web Applications**
 
 - 🌱 I’m currently learning **Multiple web technologies**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, NextJs, Java, C#, APIs**
+- 💬 Ask me about **Java, C#, JavaScript, SQL, RESTful APIs, Databases, Design Patterns, Distributed Systems**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
