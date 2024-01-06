@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Multiple web technologies**
 
-- 💬 Ask me about **Java, C#, JavaScript, SQL, RESTful APIs, Databases, Design Patterns, Distributed Systems**
+- 💬 Ask me about **Golang, Java, TypeScript, JavaScript, SQL, RESTful APIs, Databases, Design Patterns, Distributed Systems**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
