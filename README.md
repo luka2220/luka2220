@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
 <h3 align="center">I am a 23-year-old student in Computer Science and Software Engineering, currently expanding my knowledge and learning various web and cloud technologies. I am a Software Developer focusing on both the front-end and back-end, intending to learn cloud technologies in the future such as docker, Kubernetes, and AWS. I am always looking to contribute to open-source projects in my spare time and collaborate with others in the technology industry about interesting topics!</h3>
 
-- 🔭 I’m currently working on **CLI Applicayions and Web Servers**
-
-- 🌱 I’m currently learning **Multiple web technologies**
+- 🔭 I’m currently working on **CLI Applications, Web Servers and DBMS Applications**
 
 - 💬 Ask me about **Golang, Java, TypeScript, Python, SQL, RESTful APIs, Databases, Design Patterns, Distributed Systems**
 
