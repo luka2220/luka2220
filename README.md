@@ -8,7 +8,7 @@
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
 
-<h3 align="left">Checkout some of my articles!:</h3>
+<h3 align="left">Checkout some of my articles!</h3>
 https://medium.com/@piplicaluka64
 
 <h3 align="left">Languages and Tools:</h3>
