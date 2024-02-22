@@ -3,13 +3,16 @@
 
 - 🔭 I’m currently working on **CLI Applications, Web Servers and Mobile Applications**
 
-- 💬 Ask me about **Golang, Java, TypeScript, Python, Flutter, React-Native SQL, RESTful APIs, Databases, Design Patterns, Distributed Systems**
+- 💬 Ask me about **Golang, Java, TypeScript, Python, Flutter, React-Native, SQL, RESTful APIs, Databases, Design Patterns, Distributed Systems**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
 
 <h3 align="left">Checkout some of my articles!</h3>
 https://medium.com/@piplicaluka64
+
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luka2220&show_icons=true&locale=en&theme=prussian" alt="luka2220" /></p>
 
