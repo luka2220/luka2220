@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
-<h3 align="center">I am a Computer Science and Software Engineering student from Canada, expanding my knowledge and learning web and cloud technologies. I am a software developer focusing on both the front end and back end, and I intend to learn cloud technologies in the future, such as docker, Kubernetes, and AWS. I am always looking to contribute to open-source projects in my spare time and collaborate with others in the technology industry about interesting topics!</h3>
+<h3 align="center">I am a Computer Science student from Canada, expanding my knowledge in software engineering, specifically back-end engineering and tooling.</h3>
 
-- 🔭 I’m currently working on **CLI Applications, Compilers (Lexers & Parsers), and Backend Systems**
+- 🔭 I’m currently working on **CLI Applications, Software Tooling, and Backend Systems**
 
-- 💬 Ask me about **Golang, Java, JavaScript, SQL**
+- 💬 Ask me about **Golang, Java, C++, SQL**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
