@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
 <h3 align="center">I am a Computer Science student from Canada, expanding my knowledge in software engineering, specifically back-end engineering, network programming, and software tooling.</h3>
 
-- 🔭 I’m currently working on **CLI Applications, Software Tooling, and Backend Systems**
+- 🔭 I’m currently working on **Backend Systems, Full-Stack Applications, and Building Machine Learning Models**
 
-- 💬 Ask me about **Golang, Java, TypeScript, C/C++, SQL**
+- 💬 Ask me about **Python, TypeScript, Golang, SQL**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
