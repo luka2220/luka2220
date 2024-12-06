@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Golang library for rate limiting and limiting network bandwidth**
 
-- 💬 Ask me about **Python, TypeScript, Golang, Svelte, SQL**
+- 💬 Ask me about **Golang, Java, Python, TypeScript, SQL**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
