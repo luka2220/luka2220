@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
 <h3 align="center">I am a Software Developer from Canada, expanding my knowledge in software engineering, specifically back-end engineering, network programming, and software tooling.</h3>
 
-- 🔭 I’m currently working on a **Golang library for rate limiting and limiting network bandwidth**
+- 🔭 I’m currently working on a **Reddit Data API**
 
 - 💬 Ask me about **Java, Golang, Python, TypeScript, SQL**
 
