@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Reddit Data API**
 
-- 💬 Ask me about **JS/TS, Java, Golang, Python, SQL**
+- 💬 Ask me about **JavaScript/TypeScript, Java, Golang, SQL**
 
 - 📫 How to reach me **piplicaluka64@gmail.com**
 
