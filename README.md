@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **Multi-Media Conversion Tool**
 
-- 💬 My main programming languages are **TypeScript, Golang, SQL**
+- 💬 My main programming languages are **TypeScript, Golang**
 
 ---
 ### 👾 Technologies I Program With
