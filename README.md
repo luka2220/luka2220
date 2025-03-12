@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
-<h3 align="center">I am a Software Developer from Canada, expanding my knowledge in software engineering, specifically back-end engineering, network programming, and software tooling.</h3>
 
-- 🔭 I’m currently working on a **RSS Feed Application**
+<p>I am a Software Developer specializing in web applications and software tooling. I also have a passion and interest in operating systems and network programming.</p>
 
-- 💬 Ask me about **JavaScript/TypeScript, Java, Golang, SQL**
+- 🔭 I’m currently working on a **Multi-Media Conversion Tool**
 
-- 📫 How to reach me **piplicaluka64@gmail.com**
+- 💬 My main programming languages are **TypeScript, Golang, SQL**
 
+---
+### 👾 Technologies I Program With
+<p>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/-Go-E10098?style=flat-square&logo=go&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-311C87?style=flat-square&logo=sqlite&logoColor=white">
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-13aa52?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=express&logoColor=white" />
+</p>
 
-<h3 align="left">Checkout some of my articles!</h3>
-https://medium.com/@piplicaluka64
+---
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luka2220&show_icons=true&locale=en&theme=tokyonight" alt="luka2220" /></p>
 
-<br>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luka2220&show_icons=true&locale=en&theme=prussian" alt="luka2220" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luka2220&show_icons=true&locale=en&theme=prussian" alt="luka2220" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luka2220&show_icons=true&locale=en&theme=tokyonight" alt="luka2220" /></p>
 
