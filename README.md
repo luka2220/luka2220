@@ -2,7 +2,7 @@
 
 <p>I am a Software Developer specializing in web applications and software tooling. I also have a passion and interest in operating systems and network programming.</p>
 
-- 🔭 I’m currently working on a **Multi-Media Conversion Tool**
+- 🔭 I’m currently working on **SonicStream, an ultra-fast media conversion with seamless output**
 
 - 💬 My main programming languages are **TypeScript, Golang**
 
@@ -24,5 +24,5 @@
 ### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luka2220&show_icons=true&locale=en&theme=tokyonight&cache_seconds=3600" alt="luka2220" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luka2220&show_icons=true&locale=en&theme=tokyonight" alt="luka2220" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luka2220&show_icons=true&locale=en&theme=tokyonight&cache_seconds=3600" alt="luka2220" /></p>
 
