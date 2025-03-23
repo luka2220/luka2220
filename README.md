@@ -6,6 +6,8 @@
 
 - 💬 My main programming languages are **TypeScript, Golang**
 
+- 🌃 I enjoy using neovim and configuring my dev environment writing neovim plugins with Lua!
+
 ---
 ### 👾 Technologies I Program With
 <p>
