@@ -14,13 +14,9 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-E10098?style=flat-square&logo=go&logoColor=white">
 <img alt="Lua" src="https://img.shields.io/badge/-Lua-0C0950?style=flat-square&logo=lua&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-311C87?style=flat-square&logo=sqlite&logoColor=white">
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-13aa52?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=express&logoColor=white" />
-<img alt="Hono" src="https://img.shields.io/badge/-Hono-f08432?style=flat-square&logo=hono&logoColor=white" />
 </p>
 
 ---
