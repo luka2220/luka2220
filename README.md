@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **SonicStream, an ultra-fast media conversion tool with seamless output**
 
-- 💬 My main programming languages are **TypeScript, Golang**
+- 💬 My main areas of focus is **Backend Development, Software Tooling, & Systems Programming**
 
-- 🌃 I enjoy using neovim and configuring my dev environment writing neovim plugins with Lua!
+- 🌃 I enjoy using neovim and configuring my dev environment by writing neovim plugins with Lua!
 
 ---
 ### 👾 Technologies I Program With
