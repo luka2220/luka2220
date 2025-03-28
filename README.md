@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SonicStream, an ultra-fast media conversion tool with seamless output**
 
-- 💬 My main areas of focus is **Backend Development, Software Tooling, & Systems Programming**
+- 💬 My main areas of focus are **Backend Development, Software Tooling, & Systems Programming**
 
 - 🌃 I enjoy using neovim and configuring my dev environment by writing neovim plugins with Lua!
 
