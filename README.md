@@ -6,8 +6,6 @@
 
 - 💬 My main areas of focus are **Backend Development, Software Tooling, & Systems Programming**
 
-- 🌃 I enjoy using neovim and configuring my dev environment by writing neovim plugins with Lua!
-
 ---
 ### 👾 Technologies I Program With
 <p>
