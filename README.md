@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SonicStream, an ultra-fast media conversion tool with seamless output**
 
-- 💬 My main areas of focus are **Backend Development, Software Tooling, & Systems Programming**
+- 💬 My main areas of focus are **Backend Development, Software Tools, & Systems Programming**
 
 ---
 ### 👾 Technologies I Program With
