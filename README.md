@@ -2,7 +2,7 @@
 
 <p>I am a Software Developer specializing in web applications and software tooling. I also have a passion and interest in operating systems and network programming.</p>
 
-- 🔭 I’m currently working on **SonicStream, an ultra-fast media conversion tool with seamless output**
+- 🔭 I’m currently working on **SonicStream, an ultra-fast media conversion tool**
 
 - 💬 My main areas of focus are **Backend Development, Software Tools, & Systems Programming**
 
