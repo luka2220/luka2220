@@ -9,6 +9,7 @@
 ---
 ### 👾 Technologies I Program With
 <p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-E10098?style=flat-square&logo=go&logoColor=white">
 <img alt="Lua" src="https://img.shields.io/badge/-Lua-0C0950?style=flat-square&logo=lua&logoColor=white">
