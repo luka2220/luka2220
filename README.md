@@ -20,7 +20,7 @@
 
 ---
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luka2220&show_icons=true&locale=en&theme=tokyonight&cache_seconds=3600" alt="luka2220" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luka2220&&show_icons=true&theme=tokyonight" alt="luka2220" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luka2220&show_icons=true&locale=en&theme=tokyonight&cache_seconds=3600" alt="luka2220" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luka2220&show_icons=true&locale=en&theme=tokyonight" alt="luka2220" /></p>
 
