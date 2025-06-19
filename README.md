@@ -2,7 +2,7 @@
 
 <p>I am a Software Developer specializing in web applications and software tooling. I also have a passion and interest in operating systems and network programming.</p>
 
-- 💬 My main areas of focus are **Backend Development, Software Tooling, & Systems Programming**
+💬 My main areas of focus are **Backend Development, Software Tooling, & Systems Programming**
 
 ---
 ### 👾 Technologies I Program With
