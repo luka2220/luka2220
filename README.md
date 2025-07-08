@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luka!</h1>
 
-<p>I am a Software Developer specializing in web applications and software tooling. I also have a passion and interest in operating systems and network programming.</p>
+<p>I am a Software Developer specializing in web applications and software tooling. I also have a passion and interest in databases and network programming.</p>
 
 💬 My main areas of focus are **Backend Development, Software Tooling, & Systems Programming**
 
