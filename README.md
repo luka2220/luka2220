@@ -9,7 +9,6 @@
 <p>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-E10098?style=flat-square&logo=go&logoColor=white"/>
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=black"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-13aa52?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-311C87?style=flat-square&logo=sqlite&logoColor=white"/>
